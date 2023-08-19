@@ -1,0 +1,10 @@
+const App = () => {
+  return (
+    <main className="relative">
+      Nan component
+      <section className="xl:padding-1 wide:padding-r padding-b">Hero</section>
+    </main>
+  );
+};
+
+export default App;
